@@ -29,6 +29,8 @@ namespace MapremièreAppli
 
             Livre p = new Periodique("Programmez", 4);
 
+            String modif;
+
             List<Livre> tab = new List<Livre>();
             tab.Add(l2);
             tab.Add(l);
